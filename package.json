@@ -1,0 +1,24 @@
+{
+  "name": "directus_recipe_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohani/directus_recipe_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nohani/directus_recipe_repo/issues"
+  },
+  "homepage": "https://github.com/nohani/directus_recipe_repo#readme",
+  "dependencies": {
+    "@directus/sdk": "^10.3.1"
+  }, 
+  "type": "module"
+}
