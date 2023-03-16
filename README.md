@@ -1,1 +1,1 @@
-# DirectUs Recipe Repository 
+# DirectUs Challenge Repository 
